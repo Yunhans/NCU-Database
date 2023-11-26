@@ -1,0 +1,54 @@
+course_id,course_code,course_name,prerequisite_course,semester,room,time,teacher,degree_program
+1,IM1023,Finance Management,,1121,I1-104,(Wed) 234,2356,1
+2,IM1023,Finance Management,,1111,I1-104,(Wed) 234,2356,1
+3,IM1022,Data Science,"IM560,IM2048",1121,I1-404,(Fri) 234,5623,"1,4"
+4,IM1022,Data Science,"IM560,IM2048",1112,I1-404,(Fri) 234,5620,"1,4"
+5,IM1022,Data Science,"IM560,IM2048",1102,I1-404,(Fri) 234,5620,1
+6,IM560,Programming(Basic),,1111,I1-407,(Sun) 678,5623,1
+7,IM560,Programming(Basic),,1101,I1-407,(Fri) 678,5623,"1,2,3,4"
+8,IM560,Programming(Basic),,1091,I1-407,(Fri) 678,5623,"1,2,3,4"
+9,IM2056,Introduction to Blockchain,IM2060,1112,I1-404,(Mon) 234,5623,3
+10,IM2056,Introduction to Blockchain,IM2060,1101,I1-404,(Tue) 234,5623,"3,4"
+11,IM1025,Machine Learning,IM560,1121,I1-104,(Mon) 567,"5623,1245",1
+12,IM1025,Machine Learning,IM560,1092,I1-104,(Mon) 567,1245,"1,2,3"
+13,IM2048,Introduction to DataBase,,1121,I1-103,(Wed) 567,5620,1
+14,IM2048,Introduction to DataBase,,1111,I1-103,(Mon) 567,5620,"1,2,3,4"
+15,IM2048,Introduction to DataBase,,1101,I1-103,(Mon) 567,5620,"2,3,4"
+16,IM2048,Introduction to DataBase,,1091,I1-103,(Mon) 567,5620,"2,3,4"
+17,IM561,Programming(Advanced),IM560,1112,I1-407,(Tue) 234,"5620,5623","2,4"
+18,IM561,Programming(Advanced),IM560,1102,I1-407,(Tue) 234,"5620,5623","2,4"
+19,IM561,Programming(Advanced),IM560,1092,I1-407,(Tue) 234,"5620,5623","2,4"
+20,IM4085,Basic Chinese,,1121,I1-404,(Wed) 789,3120,5
+21,IM4085,Basic Chinese,,1112,I1-404,(Wed) 789,3120,5
+22,IM4085,Basic Chinese,,1102,I1-404,(Wed) 789,3120,5
+23,IM2060,Information Security,,1121,I1-404,(Tue) 678,1245,"1,2"
+24,IM2060,Information Security,,1111,I1-404,(Tue) 678,1245,"1,3"
+25,IM2060,Information Security,,1101,I1-404,(Tue) 678,1245,"1,2,3,4"
+26,IM2062,Introduction to Internet,,1121,l1-409,(Thu) 678,5623,"1,2"
+27,IM2062,Introduction to Internet,,1111,l1-409,(Thu) 678,1245,"1,2"
+28,IM4083,Basic English,,1121,I1-404,(Mon) 234,3120,5
+29,IM4083,Basic English,,1111,I1-404,(Mon) 234,3120,5
+30,IM4083,Basic English,,1101,I1-404,(Mon) 234,3120,5
+31,IM2063,Practical Course of Cloud Computing,IM2062,1121,I1-407,(Thu) 678,1245,"3,4"
+32,IM2063,Practical Course of Cloud Computing,IM2062,1112,I1-407,(Thu) 678,1245,"3,4"
+33,IM1050,Marketing Management,,1121,I1-507,(Thu) 567,2356,"2,3,4"
+34,IM1050,Marketing Management,,1111,I1-507,(Thu) 567,2356,"3,4"
+35,IM1050,Marketing Management,,1101,I1-507,(Thu) 567,2356,"3,4"
+36,IM1062,Physical Education,,1121,I1-408,(Wed) 678,3120,5
+37,IM1062,Physical Education,,1111,I1-408,(Wed) 678,3120,5
+38,IM1062,Physical Education,,1101,I1-408,(Wed) 678,3120,5
+39,IM1023,Finance Management,,1121,I1-104,(Sun) 234,2356,2
+40,IM1023,Finance Management,,1121,I1-104,(Mon) 234,2356,3
+41,IM1023,Finance Management,,1121,I1-104,(Tue) 234,2356,4
+42,IM2056,Introduction to Blockchain,IM2060,1112,I1-404,(Tue) 234,5623,4
+43,IM560,Programming(Basic),,1121,I1-407,(Fri) 678,5623,2
+44,IM1022,Data Science,"IM560,IM2048",1102,I1-404,(Sun) 234,5620,4
+45,IM1025,Machine Learning,IM560,1121,I1-104,(Tue) 567,"5623,1245",2
+46,IM1025,Machine Learning,IM560,1121,I1-104,(Wed) 567,"5623,1245",3
+47,IM1023,Finance Management,,1111,I1-104,(Sun) 234,2356,2
+48,IM1023,Finance Management,,1111,I1-104,(Mon) 234,2356,3
+49,IM1023,Finance Management,,1111,I1-104,(Tue) 234,2356,4
+50,IM560,Programming(Basic),,1121,I1-407,(Sun) 678,5623,1
+51,IM2056,Introduction to Blockchain,IM2060,1121,I1-404,(Wed) 234,5623,1
+52,IM2060,Information Security,,1111,I1-404,(Mon) 678,1245,"2,4"
+53,IM2048,Introduction to DataBase,,1121,I1-103,(Mon) 567,5620,"3,4"

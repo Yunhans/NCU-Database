@@ -1,0 +1,6 @@
+degree_program_id,name,required_course,prerequisite_year_of_required_course,elective_course
+1,Bachelor of Information Management Degree Program,"IM1023,IM560,IM1025,IM2048,IM561,IM2062","1,1,2,2,3,3","IM1022,IM2056,IM2060,IM2063"
+2,Bachelor of Business Management Degree Program,"IM1023,IM560,IM2048,IM1050","1,1,2,3","IM1025,IM561,IM2060,IM2062"
+3,Bachelor of Applied Economics Degree Program,"IM1023,IM2060,IM1050,IM2056,IM2062","1,1,2,3,4","IM560,IM1025,IM2048,IM2063"
+4,Bachelor of Financial Management Degree Program,"IM560,IM1023,IM2060,IM561,IM1050,IM2056","1,1,2,3,3,4","IM1022,IM2048,IM2063,IM2062"
+5,Liberal Education,,,"IM4085,IM4083,IM1062"
